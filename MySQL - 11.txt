@@ -1,0 +1,14 @@
+CURDATE(): Current date.
+CURTIME(): Current time.
+NOE(): Current date and time.
+DATE(): Extract date part.
+TIME(): Extract time part.
+YEAR(): Extract year.
+MONTH(): Extract month.
+DAY()/DAYOFMONTH(): Extract day of the month.
+WEEK(): Extract week number.
+DAYOFWEEK(): Extract day of  week.
+DATE_ADD(): Add time to a date.
+DATE_SUB(): Subtract time from a date.
+DATEDIFF(): Difference between two dates.
+TIMESTAMPDIFF(): Difference between two DATETIME values
